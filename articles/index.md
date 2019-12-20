@@ -4,7 +4,7 @@
 # 왜 안되고 그래...제발 해달라는대로 다해줬자낳아..
 # 그래 이제 되네 
 # 그럼 이제 새로운거 한번 해보자.
-
+4번째
 # Azure DevOps HOL
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행했던 Hands on Lab입니다.
