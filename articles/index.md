@@ -10,7 +10,9 @@
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행했던 Hands on Lab입니다.
 
 ## 사전 준비 사항
-
+1. 수업잘듣는다
+2. 20200217 실습
+3. 두번들어도 좋은거
 *Azure* VM, Function Apps, Containers 등 사전 지식을 따로 필요로 하지 않습니다.
 Git에 사용 방법에 대해서 알고 있다고 가정하고 실습을 진행합니다.
 
